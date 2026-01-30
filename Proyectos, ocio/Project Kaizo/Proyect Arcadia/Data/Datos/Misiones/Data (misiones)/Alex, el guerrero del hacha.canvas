@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"296f2439a4b2ad08","type":"text","text":"---\n\n---\n***Conoce a Alex.***\n\nEste caballero te lo encuentras siendo encarcelado por unos caballeros, este será enviado a una prisión en Horrendor ¿O no?","x":-118,"y":-118,"width":237,"height":236},
+		{"id":"0a047162eb246110","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Personajes/Data (Personajes)/Otros/Alex, el guerrero del hacha.md","x":480,"y":-118,"width":380,"height":398,"color":"#c2c2c2"},
+		{"id":"1ede659a86845d56","type":"text","text":"---\n\n---\n***Escape con éxito***\n\nParece ser que durante su evacuada se escapó, ahora se encuentra en una ruta cualquiera. Puedes ayudarle o entregarlo a la policía","x":-118,"y":-520,"width":237,"height":236,"color":"5"},
+		{"id":"097507c1247c9a6a","type":"text","text":"---\n\n---\n*La muerte de Alex*\n\nTras morir durante la batalla antes de Horrendor, no puedes hablar más con él.","x":243,"y":-520,"width":237,"height":236,"color":"1"},
+		{"id":"08029a259aff1b3f","type":"text","text":"---\n\n---\n*Lo que hace un buen ciudadano*\n\nDecides entregar a Alex a la policía para evitar problemas, estos te dan:\n\nx500 rubís","x":119,"y":-960,"width":237,"height":236,"color":"1"},
+		{"id":"bed3b73a3091983b","type":"text","text":"---\n\n---\n*Remordimientos*\n\nAlex te agradece tu ayuda, y te pregunta si se puede unir a vuestro grupo (En caso de que lo hagas, te podrá apoyar en misiones)","x":-355,"y":-960,"width":237,"height":236,"color":"5"},
+		{"id":"4878a81256b4a6f5","type":"text","text":"IMPORTANTE: Debes de entregar a Alex si o si en caso de que apoyes al sacerdote.","x":243,"y":-660,"width":390,"height":60},
+		{"id":"67e784b0b896d4e4","type":"text","text":"---\n\n---\n*¡Ya sois un grupo!*\n\nAlex te agradece tu ayuda, y te pregunta si se puede unir a vuestro grupo (En caso de que lo hagas, te podrá apoyar en misiones)","x":-592,"y":-1380,"width":237,"height":236,"color":"5"},
+		{"id":"6f38bc45ebd01a6b","type":"text","text":"---\n\n---\n*Solo te pidió un favor*\n\nAlex te dijo si lo podrías traer a alguna misión, al final, nunca lo hiciste.","x":-118,"y":-1380,"width":237,"height":236,"color":"1"},
+		{"id":"fdf731a26b508f0d","type":"text","text":"---\n\n---\n*Mi destino nos separa*\n\nAlex te agradece tu ayuda, pero te avisa de que será la última vez que le verás. Te cuenta toda su historia:\n\n\"Soy la hermana de Sumire, lo que hace que mi padre sea Horrendor, entiendo que quieras matar a mi padre, pero te tendré que detener cuando vayas a por él, perdón tío\"\n\nTras matarlo, este te da:\n\n- [[Gran hacha motorizada de Alex]]","x":-669,"y":-1980,"width":392,"height":396,"color":"4"}
+	],
+	"edges":[
+		{"id":"2f7bb7dc7919deca","fromNode":"296f2439a4b2ad08","fromSide":"right","toNode":"0a047162eb246110","toSide":"left"},
+		{"id":"489b54c2baba67f4","fromNode":"296f2439a4b2ad08","fromSide":"top","toNode":"1ede659a86845d56","toSide":"bottom"},
+		{"id":"57e2925687068c96","fromNode":"1ede659a86845d56","fromSide":"top","toNode":"bed3b73a3091983b","toSide":"bottom","label":"Ayudar"},
+		{"id":"4c3e526d27cbad84","fromNode":"1ede659a86845d56","fromSide":"top","toNode":"08029a259aff1b3f","toSide":"bottom","label":"Entregar"},
+		{"id":"ee5bb83b4bf8a61a","fromNode":"296f2439a4b2ad08","fromSide":"top","toNode":"097507c1247c9a6a","toSide":"bottom"},
+		{"id":"227b284ffa97484e","fromNode":"bed3b73a3091983b","fromSide":"top","toNode":"6f38bc45ebd01a6b","toSide":"bottom","label":"0 incursiones\ncon Alex"},
+		{"id":"5ba0c09aa9c59276","fromNode":"bed3b73a3091983b","fromSide":"top","toNode":"67e784b0b896d4e4","toSide":"bottom","label":"+3 incursiones\ncon Alex"},
+		{"id":"c605020e89090215","fromNode":"67e784b0b896d4e4","fromSide":"top","toNode":"fdf731a26b508f0d","toSide":"bottom","label":"En la entrada de la prisión de Horrendor"}
+	]
+}

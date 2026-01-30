@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b2765b14d15dbfcd","type":"text","text":"---\n\n---\n***El hombre cansado***\n\nTras llegar a Arcadia, conocéis a este viejo hombre que os da simples misiones.","x":-118,"y":-118,"width":237,"height":236},
+		{"id":"40414eb95ce18f17","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Personajes/Data (Personajes)/Otros/Thorfinn, el viajero de Arcadia.md","x":540,"y":-118,"width":400,"height":400,"color":"#6e6e6e"},
+		{"id":"ab582859c85595de","type":"text","text":"Thorfinn, el viajero de Arcadia\n\nTras completar una simple misión, este se presenta, \n\n\"Me llamo *Thorfinn*, un gusto\"","x":-118,"y":-660,"width":237,"height":236,"color":"5"},
+		{"id":"3012c9d98ac7d3fb","type":"text","text":"El monopolio Thorfinn\n\nTras no hablar con él, otro grupo ha tomado el control total de él.","x":303,"y":-660,"width":237,"height":236,"color":"1"},
+		{"id":"d647beb54da676a1","type":"text","text":"*Le entregaste la pluma negra*\n\nThorfinn te agradece la pluma negra de cuervo, a cambio te da:\n\n- x2000 rubís","x":-355,"y":-1120,"width":237,"height":236,"color":"5"},
+		{"id":"5e8d099b061b2d4e","type":"text","text":"*Le entregaste 1000 rubís*\n\nThorfinn te agradece los 1000 rubís, a cambio te da:\n\n- x1 Varita de plumas","x":119,"y":-1120,"width":237,"height":236,"color":"5"}
+	],
+	"edges":[
+		{"id":"c0c4683fc7fa9117","fromNode":"b2765b14d15dbfcd","fromSide":"right","toNode":"40414eb95ce18f17","toSide":"left"},
+		{"id":"df62720702c8d723","fromNode":"b2765b14d15dbfcd","fromSide":"top","toNode":"ab582859c85595de","toSide":"bottom","color":"4","label":"1 misión"},
+		{"id":"f6527777927c443d","fromNode":"b2765b14d15dbfcd","fromSide":"top","toNode":"3012c9d98ac7d3fb","toSide":"bottom"},
+		{"id":"78bd000604324808","fromNode":"ab582859c85595de","fromSide":"top","toNode":"d647beb54da676a1","toSide":"bottom"},
+		{"id":"8fb15fc6756088b9","fromNode":"ab582859c85595de","fromSide":"top","toNode":"5e8d099b061b2d4e","toSide":"bottom"}
+	]
+}

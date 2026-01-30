@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Tabla
+    filters:
+      and:
+        - file.inFolder("Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Misiones/Data (misiones)")
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 330
+    imageAspectRatio: 1
+    imageFit: contain

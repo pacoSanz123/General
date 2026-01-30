@@ -1,0 +1,42 @@
+
+- Nombre: Bjorn
+	### Bjorn
+- PEXP restantes: 0
+- Etiqueta: #PersonajePrincipal 
+- Descripción
+	"Nací para pasar desapercibido y así viví En el reino hay muchos como yo gente que cumple su labor que no destaca y no hace ruido Mi lugar estaba en ese margen silencioso donde las cosas funcionan sin que nadie lo note Un día llegaron con una orden No hubo anuncio ni ceremonia solo un nombre señalado y un destino marcado Me necesitaban para una misión concreta por un tiempo concreto No preguntaron si estaba dispuesto solo comprobaron que podía caminar y obedecer Acepté porque no había otra cosa que aceptar No por valentía ni ambición sino porque así es como se sigue viviendo cuando otros deciden el rumbo"
+- Foto:
+	![[Bjørn.png]]
+- Habilidades sociales:
+	- Carisma 4/15
+	- Inteligencia 8/15
+	- Romanticismo 7/15
+	- Comedia 6/15
+	- Debate 8/15
+	- Persuasión 7/15
+- Conocimiento primario:
+	- Corrupción:
+		- Soberbia 0/10
+		- Gula 0/10
+		- Ira 1/10
+		- Avaricia 0/10
+		- Envidia 0/10
+		- Lujuria 0/10
+		- Pereza 1/10
+	- Base:
+		- Lectura de libros / lenguas antiguas 6/20
+		- Uso de bastones / varitas 11/20
+		- Fuego 9/20
+		- Agua 0/20
+		- Tierra 0/20
+		- Viento 0/20
+		- Luz 15/20
+		- Necroplaga 9/20
+		- Acresismo 0/20
+		- Sanación 7/20
+- Cuerpo:
+	- Vida: 100/100
+	- Estamina: 100
+	- Velocidad: 10
+	- Defensa física: 10
+	- Defensa mágica: 10

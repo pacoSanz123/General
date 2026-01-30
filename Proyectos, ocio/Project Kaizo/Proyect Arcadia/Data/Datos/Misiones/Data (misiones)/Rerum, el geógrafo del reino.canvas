@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"c49500c629fc6ba1","type":"text","text":"---\n\n---\n***Rerum, el geógrafo de Arcadia***\n\nUn tal Rerum se presenta, y con su orden que posee, os da la ubicación de las 5 grandes ciudades de cada región.","x":-40,"y":-60,"width":237,"height":236},
+		{"id":"5e38bb053342f70d","type":"text","text":"---\n\n---\nLa realidad de Arcadia\n\nRerum te comenta de que debes de derrotar a los 5 señores del reino para así con sus almas, abrir las puertas del caos, aunque no será fácil, debes de mirar por el bien de Arcadia, aunque Rerum te avisa, puede que no lo cuentes. Rerum te regala el objeto:\n\n- [[Amuleto de Rerum]]","x":-92,"y":-600,"width":341,"height":316,"color":"5"},
+		{"id":"38f346f52a91cf5a","type":"text","text":"---\n\n---\nCinco reyes derrotados\n\nTras derrotar a los 5 reyes, Rerum te agradece tu ayuda, y te da la misión final, abrir las puertas del caos.","x":-206,"y":-1540,"width":237,"height":236,"color":"5"},
+		{"id":"b4982e226b1bbd82","type":"text","text":"---\n\n---\nLa muerte de Rerum\n\nLa muerte es dura, pero real, debido a que has sido muy vistoso, Rerum ha sido asesinado sin que te des cuenta.","x":145,"y":-1540,"width":237,"height":236,"color":"1"},
+		{"id":"d71818f446693c0a","type":"text","text":"---\n\n---\nPrimera región: Arcadia\n\nRerum te visita en la ciudad principal, donde te comenta de que de mayor querría retirarse en Arcadia","x":-660,"y":-1100,"width":237,"height":236,"color":"5"},
+		{"id":"d752cf0d50bb4765","type":"text","text":"---\n\n---\nPrimera región: Pico de los gigantes\n\nRerum te visita en una cabaña, bastante sorprendido, te regala un cuadro bonito.","x":-40,"y":-1100,"width":237,"height":236,"color":"5"},
+		{"id":"37caf2755635871c","type":"text","text":"---\n\n---\nPrimera región: Horrendor\n\nRerum te visita en la entrada de la mazmorra de Horrendor, aquí simplemente te recomendará no entrar.","x":300,"y":-1100,"width":237,"height":236,"color":"5"},
+		{"id":"e5fe01d579a8d131","type":"text","text":"---\n\n---\nPrimera región: Alan-Dalúz\n\nRerum te visita en la ciudad principal, donde te comenta sobre lo interesante que es la zona.","x":600,"y":-1100,"width":237,"height":236,"color":"5"},
+		{"id":"468e768685c662a9","type":"text","text":"---\n\n---\nPrimera región: Rechiarck\n\nRerum te visita en la ciudad principal de Rechiarck, que te cuenta un poco de información de la zona","x":-360,"y":-1100,"width":237,"height":236,"color":"5"},
+		{"id":"299cf8422bc11585","type":"text","text":"---\n\n---\nEl dios del caos\n\nSi tienes todas las estadísticas de corrupción, podrás absorber los conocimientos de Rerum, dándote el conocimiento divino, logrando convertirte en lo que juraste destruir, ahora, Rerum será tu consejero.","x":382,"y":-2440,"width":341,"height":316,"color":"6"},
+		{"id":"12a08b5d584b370a","type":"text","text":"---\n\n---\nLa muerte de Rerum\n\nLa muerte es tu último consuelo de alma que te quedaba ¿Mereces algo? Lo mataste tú mismo","x":-92,"y":-2360,"width":237,"height":236,"color":"1"},
+		{"id":"41b273c5c7221d65","type":"text","text":"---\n\n---\nLas puertas del caos\n\nTras abrir las puertas del caos, Rerum desaparece, pero por arte de magia, la armadura de Rerum aparece en tu inventario.","x":-206,"y":-1960,"width":237,"height":236,"color":"4"},
+		{"id":"51bddfb89ef05fb9","type":"text","text":"---\n\n---\nUno más del caos\n\nSi decides tras abrir las puertas y derrotar a Yosuke unirte al caos y ser el rey del caos, Rerum te buscará para matarte.","x":145,"y":-1960,"width":237,"height":236,"color":"5"},
+		{"id":"2f79be6c237476c3","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Personajes/Data (Personajes)/Otros/Rerum, el geógrafo de Arcadia.md","x":540,"y":-60,"width":480,"height":480,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"13d1306c4b26a7e0","fromNode":"c49500c629fc6ba1","fromSide":"right","toNode":"2f79be6c237476c3","toSide":"left"},
+		{"id":"6f030396e2b5dbeb","fromNode":"38f346f52a91cf5a","fromSide":"top","toNode":"41b273c5c7221d65","toSide":"bottom"},
+		{"id":"1f68a3014c6ef01b","fromNode":"38f346f52a91cf5a","fromSide":"top","toNode":"51bddfb89ef05fb9","toSide":"bottom"},
+		{"id":"af70ab2fc649c9f4","fromNode":"51bddfb89ef05fb9","fromSide":"top","toNode":"299cf8422bc11585","toSide":"bottom"},
+		{"id":"a4dc721d7b5fcb6e","fromNode":"51bddfb89ef05fb9","fromSide":"top","toNode":"12a08b5d584b370a","toSide":"bottom"},
+		{"id":"9f64f26dc6c75a35","fromNode":"c49500c629fc6ba1","fromSide":"top","toNode":"5e38bb053342f70d","toSide":"bottom"},
+		{"id":"8fead685a2b8c801","fromNode":"5e38bb053342f70d","fromSide":"top","toNode":"d752cf0d50bb4765","toSide":"bottom"},
+		{"id":"6a04e0b0b03a1f93","fromNode":"5e38bb053342f70d","fromSide":"top","toNode":"468e768685c662a9","toSide":"bottom"},
+		{"id":"887629445428526a","fromNode":"5e38bb053342f70d","fromSide":"top","toNode":"37caf2755635871c","toSide":"bottom"},
+		{"id":"4d6e16372e262f4f","fromNode":"5e38bb053342f70d","fromSide":"top","toNode":"e5fe01d579a8d131","toSide":"bottom"},
+		{"id":"f98576943ba06b18","fromNode":"5e38bb053342f70d","fromSide":"top","toNode":"d71818f446693c0a","toSide":"bottom","color":"4"},
+		{"id":"292decd529a858ef","fromNode":"d71818f446693c0a","fromSide":"top","toNode":"38f346f52a91cf5a","toSide":"bottom"},
+		{"id":"59699e5f7603c8af","fromNode":"468e768685c662a9","fromSide":"top","toNode":"38f346f52a91cf5a","toSide":"bottom"},
+		{"id":"8689ad8e6508c2d3","fromNode":"d752cf0d50bb4765","fromSide":"top","toNode":"38f346f52a91cf5a","toSide":"bottom"},
+		{"id":"662aa1cdcb83b223","fromNode":"37caf2755635871c","fromSide":"top","toNode":"38f346f52a91cf5a","toSide":"bottom"},
+		{"id":"0a73ae78c984626f","fromNode":"e5fe01d579a8d131","fromSide":"top","toNode":"38f346f52a91cf5a","toSide":"bottom"},
+		{"id":"4585eeed1c86cb59","fromNode":"e5fe01d579a8d131","fromSide":"top","toNode":"b4982e226b1bbd82","toSide":"bottom"},
+		{"id":"6d6b2578be878d6e","fromNode":"37caf2755635871c","fromSide":"top","toNode":"b4982e226b1bbd82","toSide":"bottom"},
+		{"id":"34b5c9d76b47d418","fromNode":"d752cf0d50bb4765","fromSide":"top","toNode":"b4982e226b1bbd82","toSide":"bottom"},
+		{"id":"e0a39962702e00de","fromNode":"468e768685c662a9","fromSide":"top","toNode":"b4982e226b1bbd82","toSide":"bottom"},
+		{"id":"2a6ff43976e0960d","fromNode":"d71818f446693c0a","fromSide":"top","toNode":"b4982e226b1bbd82","toSide":"bottom"}
+	]
+}

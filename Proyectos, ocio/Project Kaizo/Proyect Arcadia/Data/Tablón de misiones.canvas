@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"d09bb6316fae1dc9","type":"group","x":-1040,"y":-1160,"width":2323,"height":1260,"label":"Tablón de misiones de Thorfinn"},
+		{"id":"75c04a1681e38633","type":"text","text":"*¿Me haces un favor?*\n\nHola, soy Thorfinn, ¿a alguien no le importaría darme 1000 rubís o pluma de cuervo negro? He tenido unos pequeños problemas, te daré a cambio:\n\n- x2000 rubís (por la pluma)\n- Varita de plumas (por los rubís)","x":-531,"y":-740,"width":338,"height":260,"color":"6"},
+		{"id":"21ab0f90e59eeb78","type":"text","text":"*Casa a buen presio chamaco*\n\nHelmano etaba que creo que me voy a mudal de Alcadia, si alguien quiere mi casa se la vendo por 10.000 rubís, con una casa creo ke se puede abrir un gremio.\n\n- Casa de gremio en Arcadia","x":-531,"y":-1140,"width":338,"height":260,"color":"6"},
+		{"id":"03169930bea6f8a6","type":"text","text":"***¿Alguien que se quiera sacrificar?***\n\nSi logras matar a la gárgola de la luna y traerme sus restos, te consideraré como uno de los míos.\n\n- x1000 Rubís\n- Bata de la noche","x":418,"y":-740,"width":338,"height":260,"color":"6"},
+		{"id":"c46c2f13264e3a02","type":"text","text":"Común","x":-651,"y":20,"width":218,"height":60,"color":"#141414"},
+		{"id":"91a31b5d2a1cdd41","type":"text","text":"***¿Me traes una estalactita de magma?***\n\n¿Me puedes traer una estalactita de magma del volcán? te pagaré bien.\n\n- x5.000 Rubís\n- x1 Fragmento de polvo de estrella","x":-62,"y":-740,"width":338,"height":260,"color":"5"},
+		{"id":"de683e8eca958a2e","type":"text","text":"Poco común","x":-411,"y":20,"width":218,"height":60,"color":"4"},
+		{"id":"4b105222810b09cf","type":"text","text":"Legendario","x":387,"y":20,"width":218,"height":60,"color":"3"},
+		{"id":"762a54c1960a3a36","type":"text","text":"Mítico","x":707,"y":20,"width":218,"height":60,"color":"1"},
+		{"id":"bc1d3006ffe12710","type":"text","text":"Raro","x":-153,"y":20,"width":218,"height":60,"color":"5"},
+		{"id":"9e01bb8996262cac","type":"text","text":"Épico","x":107,"y":20,"width":218,"height":60,"color":"6"},
+		{"id":"02b3bdae9f147d14","type":"text","text":"***¿Puedes convencer a mi mujer?***\n\nQuiero que me compre un buen mandoble pero dice que es peligroso, pero no logro persuadirla...\n\n- x3000 rubís\n- x1 [[Conocimiento ; Última esperanza]]","x":-62,"y":-1140,"width":338,"height":260,"color":"5"},
+		{"id":"7127272457612af3","type":"text","text":"***¿Alguien tiene un arco de Goblin?***\n\nDicen que en los pantanos hay goblins, pero no nos atrevemos a ir...\n\n- x100 Rubís","x":-531,"y":-360,"width":338,"height":260,"color":"#141414"},
+		{"id":"56701b37909ee351","type":"text","text":"***¡Necesito una lepra de murciélago!***\n\n¿Me traes una lepra de murciélago? te pagaré caro, por cada día que tardes bajaré la recompensa.\n\n- x1000 Rubís","x":-62,"y":-360,"width":338,"height":260,"color":"4"},
+		{"id":"69d2080e18d1e8de","type":"text","text":"*El bosque perdido*\n\n¿Por qué hay una ciudad perdida con una neblina gigante siempre? ¿Alguien sabe algo? Necesito explicaciones.\n\n- x10.000 Rubís\n","x":418,"y":-360,"width":338,"height":260,"color":"3"},
+		{"id":"f8c4652108bf0492","type":"text","text":"*¿Quién tiene acero?*\n\n¡Hola! Necesito 5 trozos de acero, tráemelos a la herrería de Arcadia. \n\n- x500 Rubís","x":907,"y":-360,"width":338,"height":260,"color":"4"},
+		{"id":"6247c693aef7a864","type":"text","text":" *Rescatarme anda :(* \n\nMe acerqué a un bisho to raro y me desmayé, tras ello, estoy en Rechiarck, estoy aquí con lo payo de Rechiarck, rescatarme anda.\n\n- x300 Rubís","x":907,"y":-740,"width":338,"height":260,"color":"#141414"},
+		{"id":"127b713e020b69af","type":"text","text":"*La demoníaca Vendetta*\n\nTráeme la espada Vendetta y su libro de conocimiento, si cumples mi tarea, te pagaré jugoso.\n\n- x20.000 Rubís\n","x":-989,"y":-740,"width":338,"height":260,"color":"1"},
+		{"id":"bb57623fc0996043","type":"text","text":"*Los cabrones de la capital*\n\n¿Me traes pólvora para dinamita? Te pagaré los 100 rubís que cuesta y además te daré una jugosa recompensa:\n\n- x1000 Rubís\n- x100 Rubís (Si lo compras)","x":-989,"y":-360,"width":338,"height":260,"color":"4"},
+		{"id":"8b02f96abd8f238a","type":"text","text":"***¿Alguien puede visitar a Dojima por mí? Pago bien***\n\nEsta ya mayor y le hace falta una visita, si puedes ir con él a acompañarle.\n\n- x400 Rubís","x":-989,"y":-1140,"width":338,"height":260,"color":"#141414"},
+		{"id":"bc179beb91f119ac","type":"text","text":" *El loco ese, ¿Sabéis quién es?* \n\nMe vino hace unos días un caballero preguntando si había visto un \"ente oscuro con forma de pico\" ¿Ese se ha fumado algo? Necesito verlo y preguntárselo\n\n- x300 Rubís","x":418,"y":-1140,"width":338,"height":260,"color":"#141414"}
+	],
+	"edges":[]
+}

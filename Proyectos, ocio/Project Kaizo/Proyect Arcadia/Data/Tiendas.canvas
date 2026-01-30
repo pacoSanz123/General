@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"69fa674046de9cfe","type":"group","x":-220,"y":-700,"width":880,"height":1420,"label":"Tienda de Luis"},
+		{"id":"73e13d5e42e56c41","type":"group","x":740,"y":-700,"width":880,"height":920,"label":"Tienda de Dojima"},
+		{"id":"651c493c817f23ae","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Armas/Espada de hierro.md","x":-200,"y":-200,"width":400,"height":400},
+		{"id":"a52893fa37a1ab10","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Armas/Mandoble de hierro.md","x":240,"y":-200,"width":400,"height":400},
+		{"id":"7f31e4eee697662f","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Armas/Florete de hierro.md","x":240,"y":-660,"width":400,"height":400},
+		{"id":"b1384106e8677f48","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Armas/Dagas de hierros.md","x":-200,"y":-660,"width":400,"height":400},
+		{"id":"680ec49a7b0a8a62","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Armas/Katana de bambú.md","x":760,"y":-660,"width":400,"height":400},
+		{"id":"23d6c3878ff3d88a","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Armas/Katana de acero.md","x":1200,"y":-660,"width":400,"height":400},
+		{"id":"76627ccc81b3bd45","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Conocimientos/Conocimiento de Yusuke ; Katana del helado.md","x":760,"y":-200,"width":400,"height":400},
+		{"id":"b2067be8b96ce468","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Conocimientos/Conocimiento de Dojima ; Técnica de esquive con espadas.md","x":1200,"y":-200,"width":400,"height":400},
+		{"id":"69ab5ddeb096461b","x":-200,"y":220,"width":400,"height":400,"type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos/Pergaminos/Pergamino de las magias masterizadas.md"},
+		{"id":"6372d2635d4ddd1c","type":"text","text":"Pólvora - 50 rubís","x":-200,"y":640,"width":400,"height":60}
+	],
+	"edges":[]
+}

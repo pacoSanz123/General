@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Tabla
+    filters:
+      and:
+        - file.inFolder("Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Objetos")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
+    cardSize: 400
+    imageFit: contain

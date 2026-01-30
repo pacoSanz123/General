@@ -1,0 +1,42 @@
+
+- Nombre: Erik
+	### Erik Erikson
+- PEXP restantes: 0
+- Etiqueta: #PersonajePrincipal 
+- Descripción
+	"Vengo del norte y me gustan las tetas"
+- Foto:
+	![[erik.png]]
+- Habilidades sociales:
+	- Carisma 10/15
+	- Inteligencia 6/15
+	- Romanticismo 6/15
+	- Comedia 9/15
+	- Debate 5/15
+	- Persuasión 4/15
+- Conocimiento primario:
+	- Corrupción:
+		- Soberbia 0/10
+		- Gula 0/10
+		- Ira 0/10
+		- Avaricia 2/10
+		- Envidia 0/10
+		- Lujuria 0/10
+		- Pereza 0/10
+	- Base:
+		- Lectura de libros / lenguas antiguas 15/20
+		- Uso de bastones / varitas 15/20
+		- Fuego 8/20
+		- Agua 0/20
+		- Tierra 0/20
+		- Viento 0/20
+		- Luz 0/20
+		- Necroplaga 0/20
+		- Acresismo 7/20
+		- Sanación 7/20
+- Cuerpo:
+	- Vida: 72/142
+	- Estamina: 100/100
+	- Velocidad: 10
+	- Defensa física: 10
+	- Defensa mágica: 10

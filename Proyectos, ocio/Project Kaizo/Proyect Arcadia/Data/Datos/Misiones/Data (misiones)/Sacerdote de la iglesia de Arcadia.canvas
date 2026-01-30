@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"ea564f8708420f8a","type":"text","text":"---\n\n---\n***Sacerdote de la iglesia de Arcadia***\n\nEste sacerdote os pidió ir a la gran iglesia de Arcadia para daros una simple misión.","x":-120,"y":-40,"width":237,"height":236},
+		{"id":"ac743905ff960f11","type":"text","text":"¡Ciudad visitada!\n\nEl sacerdote os pregunta que os ha parecido la iglesia y la ciudad, tras ello, os pide que le traigáis lepra de murciélago desiértico.","x":-120,"y":-880,"width":237,"height":236,"color":"5"},
+		{"id":"3de83abb4fc092fa","type":"text","text":"¡Podéis iros de Arcadia!\n\nTras completar su favor, os deja libres para que podáis volver.","x":-120,"y":-1300,"width":237,"height":236,"color":"4"},
+		{"id":"a1d622b86ebe01fc","type":"text","text":"Lepra entregada\n\nTras entregar la lepra, el sacerdote os da a elegir entre 2 objetos a entregar:\n\n- Roca magmática de Horrendor.\n- Estalactita del pico de los gigantes.","x":-594,"y":-1300,"width":237,"height":236,"color":"5"},
+		{"id":"fc73efc1de1c30c8","type":"text","text":"Estalactita entregada\n\nTras entregar la estalactita, el sacerdote en forma de recompensa te otorgará los siguientes objetos:\n\nx1[[Conocimiento de Sumire ; Florete del sabueso helado]]","x":-357,"y":-1700,"width":237,"height":280,"color":"5"},
+		{"id":"794b56351b8f6a49","type":"text","text":"Roca entregada\n\nTras entregarle la roca magmática, el sacerdote os otorga los siguientes objetos:\n\nx1 [[Conocimiento de Horrendor ; Espada Vendetta]]","x":-831,"y":-1700,"width":237,"height":280,"color":"5"},
+		{"id":"99afe902f2e011a4","type":"text","text":"Primera misión:\n\nRecorred la ciudad tranquilamente, y tras ello, mirad la gala de los 5 señores, que tras 2 años, vendrán a la capital.","x":-120,"y":-500,"width":237,"height":236,"color":"5"},
+		{"id":"4b24a6ca292f1ff9","type":"text","text":"Tan fácil era...\n\nSimplemente Arcadia no era para vosotros... Escapáis...","x":320,"y":-500,"width":237,"height":236,"color":"1"},
+		{"id":"0e49d3e9ef3ad4db","type":"file","file":"general/Proyectos, ocio/Project Kaizo/Proyect Arcadia/Data/Datos/Personajes/Data (Personajes)/Otros/Sacerdote de la iglesia de Arcadia.md","x":439,"y":-40,"width":400,"height":400,"color":"#6b6b6b"}
+	],
+	"edges":[
+		{"id":"5fc69017d10268e7","fromNode":"ea564f8708420f8a","fromSide":"right","toNode":"0e49d3e9ef3ad4db","toSide":"left"},
+		{"id":"b46358276c44c4a8","fromNode":"99afe902f2e011a4","fromSide":"top","toNode":"ac743905ff960f11","toSide":"bottom","color":"4"},
+		{"id":"8d92547a089af054","fromNode":"ea564f8708420f8a","fromSide":"top","toNode":"4b24a6ca292f1ff9","toSide":"bottom"},
+		{"id":"b685e94e15ef7741","fromNode":"ac743905ff960f11","fromSide":"top","toNode":"3de83abb4fc092fa","toSide":"bottom","label":"Con Rerum"},
+		{"id":"0c50d329ff31bb92","fromNode":"a1d622b86ebe01fc","fromSide":"top","toNode":"fc73efc1de1c30c8","toSide":"bottom"},
+		{"id":"ccfbf26516d2d1c6","fromNode":"a1d622b86ebe01fc","fromSide":"top","toNode":"794b56351b8f6a49","toSide":"bottom"},
+		{"id":"f0bef5fd78579c6a","fromNode":"ea564f8708420f8a","fromSide":"top","toNode":"99afe902f2e011a4","toSide":"bottom","color":"4"},
+		{"id":"2a0ea2d3d4617c70","fromNode":"ac743905ff960f11","fromSide":"top","toNode":"a1d622b86ebe01fc","toSide":"bottom","label":"Sin Rerum"}
+	]
+}
